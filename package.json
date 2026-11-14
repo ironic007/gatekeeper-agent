@@ -1,0 +1,1 @@
+{"dependencies":{"snarkjs":"^0.7.5"},"description":"Proof Gatekeeper agent for zkVerify Agent Games (owner: ironic)","name":"gatekeeper-agent","private":true,"scripts":{"build":"node scripts/decode-circuits.js","start":"node agent/server.js"},"version":"1.0.0"}

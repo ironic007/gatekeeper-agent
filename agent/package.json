@@ -1,0 +1,10 @@
+{
+  "name": "ironic-proof-gatekeeper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "Proof Gatekeeper agent for zkVerify Agent Games (owner handle: ironic)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "snarkjs": "^0.7.5" }
+}
